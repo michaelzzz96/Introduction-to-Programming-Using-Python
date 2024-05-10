@@ -3,7 +3,7 @@
 My attempt solving programming problems from the Introduction to Programming Using Python by Y. Daniel Liang.
 
 Chapter 1 - Introduction
-Chapter 2
+Chapter 2 - Elementary Programming
 Chapter 3
 Chapter 4
 Chapter 5
